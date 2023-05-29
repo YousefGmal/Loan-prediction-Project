@@ -10,4 +10,4 @@ columns that contain numeric values to prepare the data and
 train the machine learning model on this data
 The purpose of the model is to determine whether this person will 
 be approved for a loan or not
-I used pandas, seaborn, skit-learn libraries
+I used pandas, seaborn, scikit-learn libraries
